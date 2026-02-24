@@ -3,7 +3,7 @@
     "nombre": "Omar Figueroa",
     "carrera": "Carrera en curso: Ingeniería en Software",
     "resumen": "Soy estudiante en formación tecnológica, con evidencia documental de mi trayectoria académica y actualización profesional mediante certificados y versiones de currículum.",
-    "foto": "foto tamaño carnet 2020.png",
+    "foto": "CONTEXTO/foto tamaño carnet 2020.png",
     "estudios": [
       "Formación académica institucional (registro documental desde 2018)",
       "Estudios universitarios en curso en Ingeniería en Software",
@@ -52,7 +52,7 @@
       "titulo": "Certificado de capacitación LS",
       "fecha": "2026",
       "detalle": "Certificación de capacitación complementaria.",
-      "archivo": "certificado de capacitación LS.pdf"
+      "archivo": "CONTEXTO/certificado de capacitación LS.pdf"
     },
     {
       "titulo": "Carnet institucional",
