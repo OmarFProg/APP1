@@ -1,0 +1,95 @@
+{
+  "perfil": {
+    "nombre": "Omar Figueroa",
+    "carrera": "Carrera en curso: Ingeniería en Software",
+    "resumen": "Soy estudiante en formación tecnológica, con evidencia documental de mi trayectoria académica y actualización profesional mediante certificados y versiones de currículum.",
+    "foto": "foto tamaño carnet 2020.png",
+    "estudios": [
+      "Formación académica institucional (registro documental desde 2018)",
+      "Estudios universitarios en curso en Ingeniería en Software",
+      "Capacitación complementaria validada con certificado LS"
+    ]
+  },
+  "secciones": {
+    "historiaIntro": "Esta síntesis se construye con la evidencia disponible en el directorio: carnet institucional, foto carnet, certificados y múltiples versiones de currículum.",
+    "logrosIntro": "Principales avances identificados a partir de la evolución de mis documentos personales y académicos.",
+    "certificadosIntro": "Repositorio documental de respaldo académico y profesional.",
+    "herramientasIntro": "Herramientas usadas para estudio, documentación y desarrollo de proyectos."
+  },
+  "historia": [
+    {
+      "periodo": "2018",
+      "titulo": "Identidad académica institucional",
+      "detalle": "Se evidencia mi vinculación académica con el documento de carnet institucional 2018."
+    },
+    {
+      "periodo": "2020",
+      "titulo": "Actualización de perfil personal",
+      "detalle": "Se incorpora foto tamaño carnet 2020 como parte de mi presentación formal y profesional."
+    },
+    {
+      "periodo": "2026 - Actualidad",
+      "titulo": "Consolidación y actualización profesional",
+      "detalle": "Mi perfil se fortalece con certificado de capacitación LS y versiones actualizadas de currículum vitae."
+    }
+  ],
+  "logros": [
+    {
+      "titulo": "Evidencia de continuidad académica",
+      "detalle": "Mantenimiento de documentación institucional y profesional en distintos periodos (2018, 2020 y 2026)."
+    },
+    {
+      "titulo": "Actualización de perfil profesional",
+      "detalle": "Generación de múltiples versiones de currículum para mejora de presentación profesional."
+    },
+    {
+      "titulo": "Capacitación complementaria certificada",
+      "detalle": "Obtención de certificado de capacitación LS como respaldo de aprendizaje adicional."
+    }
+  ],
+  "certificados": [
+    {
+      "titulo": "Certificado de capacitación LS",
+      "fecha": "2026",
+      "detalle": "Certificación de capacitación complementaria.",
+      "archivo": "certificado de capacitación LS.pdf"
+    },
+    {
+      "titulo": "Carnet institucional",
+      "fecha": "2018",
+      "detalle": "Documento institucional de identificación académica.",
+      "archivo": "CARNET 2018.pdf"
+    },
+    {
+      "titulo": "Currículo Vitae (versión artes)",
+      "fecha": "2026",
+      "detalle": "Versión de hoja de vida con enfoque de presentación visual.",
+      "archivo": "Currículo Vital Omar Figueroa artes.pdf"
+    },
+    {
+      "titulo": "Currículo Vitae (versión PDF)",
+      "fecha": "2026",
+      "detalle": "Versión actualizada de mi hoja de vida profesional.",
+      "archivo": "Currículo Vital Omar Figueroa1.pdf"
+    },
+    {
+      "titulo": "Currículo Vitae (versión imagen)",
+      "fecha": "2026",
+      "detalle": "Versión en formato imagen para difusión rápida.",
+      "archivo": "Currículo Vital Omar Figueroa 2026.jpg"
+    }
+  ],
+  "herramientas": [
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "Git",
+    "GitHub",
+    "Figma",
+    "Canva",
+    "VS Code",
+    "Python",
+    "ChatGPT",
+    "Copilot"
+  ]
+}
